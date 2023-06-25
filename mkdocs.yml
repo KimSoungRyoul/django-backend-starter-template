@@ -1,0 +1,34 @@
+site_name: Django-Backend-Starter-Template
+repo_url: https://github.com/KimSoungRyoul/django-backend-starter-template
+repo_name: django-backend-starter-template
+theme:
+  icon:
+    repo: fontawesome/brands/github
+  language: ko
+  name: material
+  plugins:
+    - git-revision-date-localized:
+        enable_creation_date: true
+    - search:
+        lang:
+          - en
+          - ko
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  extra:
+    analytics:
+      provider: google
+      property: G-XXXXXXXXXX
+  palette:
+    - scheme: default
+      primary: green
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blug gray
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
