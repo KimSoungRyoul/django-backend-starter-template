@@ -4,7 +4,7 @@ repo_name: django-backend-starter-template
 theme:
   icon:
     repo: fontawesome/brands/github
-  language: ko
+  language: en
   name: material
   plugins:
     - git-revision-date-localized:
@@ -22,13 +22,14 @@ theme:
       property: G-XXXXXXXXXX
   palette:
     - scheme: default
-      primary: green
+      primary: lime
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
       primary: blug gray
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
