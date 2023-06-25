@@ -1,14 +1,13 @@
-# [django-backend-starter Template]
+# ![django-backend-template-logo](https://github.com/KimSoungRyoul/django-backend-starter-template/assets/24240623/a4667f51-76db-46ed-9896-764d18cf7bbc) Backend Starter Template
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3111/)
 [![Django](https://img.shields.io/badge/Django-4.2-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/start/overview/)
 [![Checked with mypy](https://www.mypy-lang.org/static/mypy_badge.svg)](https://mypy-lang.org/)
-
-
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Imports: isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://pycqa.github.io/isort/)
 
-## [django-backend-starter template docs](#)
+
+### [Django Backend Template Docs](https://kimsoungryoul.github.io/django-backend-starter-template/)
 
 
 ## QuickStart
