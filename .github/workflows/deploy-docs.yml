@@ -2,10 +2,7 @@ name: ci
 on:
   push:
     branches:
-      - main
-    path:
-      - "docs/**"
-      - "mkdocs.ymd"
+      - docs
 permissions:
   contents: write
 jobs:
